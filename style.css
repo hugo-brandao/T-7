@@ -1,4 +1,14 @@
 body{
-    background-color: black;
-    color: white;
+    
+}
+.infos{
+    text-align: center;
+}
+header{
+    text-align: center;
+    border: 1px solid black;
+}
+.oxg{
+    height: 100px;
+    width: auto;
 }
