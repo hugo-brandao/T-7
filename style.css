@@ -36,12 +36,12 @@ header{
 #menu ul li a {
     width: auto;
     margin-top: 1.5%;
-    background-color:#EDEDED;
-    color: #333;
+    color: black;
     text-decoration: none;
     padding: 15px 3%;
     float: left;
     border: 1px solid black;
+    border-radius: 5px;
 }
 #menu li{
     position: relative;
